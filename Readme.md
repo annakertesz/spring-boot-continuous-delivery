@@ -32,7 +32,7 @@ As part of this deployment, several actions are happening automatically through 
 
 2. Click the following Deploy to Bluemix button to load the initial toolchain setup:
 
-    [![Deploy to Bluemix](https://github.com/IBM/container-journey-template/blob/master/images/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM/spring-boot-continuous-delivery)
+    [![Deploy to Bluemix](https://github.com/IBM/container-journey-template/blob/master/images/button.png)](https://bluemix.net/deploy?repository=https://github.com/annakertesz/spring-boot-continuous-delivery)
 
 3. Once the Tool Integrations have loaded, click on each of the four different integrations to see what settings are available to be changed. 
 
