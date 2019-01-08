@@ -5,7 +5,6 @@ applications:
   path: ./target/springboot-demo.war
   buildpack: liberty-for-java
   memory: 256M
-  domain: mybluemix.net
   disk_quota: 256M
   services:
   - sample-java-cloudant-cloudantNoSQLDB
